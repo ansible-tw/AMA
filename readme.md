@@ -1,11 +1,10 @@
-# Ask me anything! (DevOps Taiwan)
+# Ask me anything! (Ansible Taiwan)
 
-Helping DevOps engineer with any questions or you can share any tools which helpful for DevOps.
- 
-### DevOps Links
-- [AMA](https://github.com/DevOpsTW/AMA)
-- [Gitter Chat](https://gitter.im/DevOpsTW/chat)
-- [Facebook](https://www.facebook.com/groups/DevOpsTaiwan)
+Do you have any questions about Ansible ? Ask it!
+
+- [Portal](http://ansible.tw/#!index.md)
+- [AMA](https://github.com/ansible-tw/AMA)
+- [Telegram Chat](https://telegram.me/joinchat/CPYvykCO9qnIpBSS-ROkeg)
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
